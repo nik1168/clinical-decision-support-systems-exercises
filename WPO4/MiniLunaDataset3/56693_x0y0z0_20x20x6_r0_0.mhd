@@ -1,0 +1,13 @@
+ObjectType = Image
+NDims = 3
+BinaryData = True
+BinaryDataByteOrderMSB = False
+CompressedData = False
+TransformMatrix = 1 0 0 0 1 0 0 0 1
+Offset = -17.4423 64.6477 -128.6
+CenterOfRotation = 0 0 0
+AnatomicalOrientation = RAI
+ElementSpacing = 0.615234 0.615234 1.25
+DimSize = 20 20 6
+ElementType = MET_SHORT
+ElementDataFile = 56693_x0y0z0_20x20x6_r0_0.raw
